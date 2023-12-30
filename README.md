@@ -1,5 +1,6 @@
 # Component-Wise-Markov-Decision-Process
 This repository provides code for the paper "Vipul Bansal, Yong Chen, Shiyu Zhou, Component-Wise  Markov Decision Process for Solving Condition Based Maintenance of Large Multi-Component Systems with Economic Dependence" 
+Link: https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2295376?src=exp-la
 
 ## Homogeneous System
 Use Transition matrix tm10.jld2
